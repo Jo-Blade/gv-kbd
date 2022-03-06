@@ -1,0 +1,12 @@
+Availables Joysticks
+======================
+
+Name : Xbox Wireless Controller
+Axis : 7
+Hats : 1
+Trackballs : 0
+Buttons : 10
+
+début du texte:
+
+bonjour
