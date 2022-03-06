@@ -28,3 +28,4 @@ I have very few leisure time because of my study. So, updates will takes longer,
 - [ ] backspace − enter − shift keys
 - [ ] add non qwerty layout (especially azerty layout for french users)
 - [ ] create beautiful assets instead of shamely using a screen capture of the https://slashcards.com/#_=_ game asset
+- [ ] add button for open/close the keyboard during intense play ;)
