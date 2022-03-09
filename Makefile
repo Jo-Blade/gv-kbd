@@ -14,7 +14,7 @@ OBJFILES := $(CFILES:.c=.o)
 DEPFILES := $(CFILES:.c=.d)
 
 $(PROG) : $(OBJFILES)
-	$(LINK.o) $(LDFLAGS) -o $@ $^
+	$(LINK.o) -o $@ $^ $(LDFLAGS)
 
 clean :
 	rm -f $(PROG) $(OBJFILES) $(DEPFILES)
